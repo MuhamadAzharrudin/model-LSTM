@@ -11,9 +11,9 @@ This repository contains an implementation of a Long Short-Term Memory (LSTM) mo
 - Performance metrics and visualization tools.
 
 ## Information
-📌 Language: Python
-📂 Released: July 2025
-⚙️ Functionality: Model Training & Evaluation
+- 📌 Language: Python
+- 📂 Released: July 2025
+- ⚙️ Functionality: Model Training & Evaluation
 
 ## ⚙️ Installation
 ```bash
