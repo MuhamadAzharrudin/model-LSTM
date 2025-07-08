@@ -1,9 +1,7 @@
 
 # LSTM(Long Short-Term Memory)-model
 
-This repository contains an implementation of an LSTM (Long Short-Term Memory) model in Python using TensorFlow/Keras for [task description: e.g., time-series forecasting, sentiment analysis, text classification, etc.].
-
-## This repository contains an implementation of a Long Short-Term Memory (LSTM) model in Python using TensorFlow/Keras for time series prediction. LSTM is highly effective for modeling historical patterns such as temperature, stock prices, sensor readings, and more.
+This repository contains an implementation of a Long Short-Term Memory (LSTM) model in Python using TensorFlow/Keras for time series prediction. LSTM is highly effective for modeling historical patterns such as temperature, stock prices, sensor readings, and more.
 
 ## 🧩 Key Features
 - Flexible LSTM architecture.
